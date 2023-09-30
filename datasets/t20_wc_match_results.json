@@ -1,0 +1,422 @@
+[
+  {
+    "Team 1": "Namibia",
+    "Team 2": "Sri Lanka",
+    "Winner": "Namibia",
+    "Margin": "55 runs",
+    "Ground": "Geelong",
+    "Match Date": "Oct 16, 2022",
+    "Scorecard": "T20I # 1823",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/namibia-vs-sri-lanka-1st-match-first-round-group-a-1298135\/full-scorecard"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "U.A.E.",
+    "Winner": "Netherlands",
+    "Margin": "3 wickets",
+    "Ground": "Geelong",
+    "Match Date": "Oct 16, 2022",
+    "Scorecard": "T20I # 1825",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/netherlands-vs-united-arab-emirates-2nd-match-first-round-group-a-1298136\/full-scorecard"
+  },
+  {
+    "Team 1": "Scotland",
+    "Team 2": "West Indies",
+    "Winner": "Scotland",
+    "Margin": "42 runs",
+    "Ground": "Hobart",
+    "Match Date": "Oct 17, 2022",
+    "Scorecard": "T20I # 1826",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/scotland-vs-west-indies-3rd-match-first-round-group-b-1298137\/full-scorecard"
+  },
+  {
+    "Team 1": "Ireland",
+    "Team 2": "Zimbabwe",
+    "Winner": "Zimbabwe",
+    "Margin": "31 runs",
+    "Ground": "Hobart",
+    "Match Date": "Oct 17, 2022",
+    "Scorecard": "T20I # 1828",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/ireland-vs-zimbabwe-4th-match-first-round-group-b-1298138\/full-scorecard"
+  },
+  {
+    "Team 1": "Namibia",
+    "Team 2": "Netherlands",
+    "Winner": "Netherlands",
+    "Margin": "5 wickets",
+    "Ground": "Geelong",
+    "Match Date": "Oct 18, 2022",
+    "Scorecard": "T20I # 1830",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/namibia-vs-netherlands-5th-match-first-round-group-a-1298139\/full-scorecard"
+  },
+  {
+    "Team 1": "Sri Lanka",
+    "Team 2": "U.A.E.",
+    "Winner": "Sri Lanka",
+    "Margin": "79 runs",
+    "Ground": "Geelong",
+    "Match Date": "Oct 18, 2022",
+    "Scorecard": "T20I # 1832",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/sri-lanka-vs-united-arab-emirates-6th-match-first-round-group-a-1298140\/full-scorecard"
+  },
+  {
+    "Team 1": "Ireland",
+    "Team 2": "Scotland",
+    "Winner": "Ireland",
+    "Margin": "6 wickets",
+    "Ground": "Hobart",
+    "Match Date": "Oct 19, 2022",
+    "Scorecard": "T20I # 1833",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/ireland-vs-scotland-7th-match-first-round-group-b-1298141\/full-scorecard"
+  },
+  {
+    "Team 1": "West Indies",
+    "Team 2": "Zimbabwe",
+    "Winner": "West Indies",
+    "Margin": "31 runs",
+    "Ground": "Hobart",
+    "Match Date": "Oct 19, 2022",
+    "Scorecard": "T20I # 1834",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/west-indies-vs-zimbabwe-8th-match-first-round-group-b-1298142\/full-scorecard"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "Sri Lanka",
+    "Winner": "Sri Lanka",
+    "Margin": "16 runs",
+    "Ground": "Geelong",
+    "Match Date": "Oct 20, 2022",
+    "Scorecard": "T20I # 1835",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/netherlands-vs-sri-lanka-9th-match-first-round-group-a-1298143\/full-scorecard"
+  },
+  {
+    "Team 1": "Namibia",
+    "Team 2": "U.A.E.",
+    "Winner": "U.A.E.",
+    "Margin": "7 runs",
+    "Ground": "Geelong",
+    "Match Date": "Oct 20, 2022",
+    "Scorecard": "T20I # 1836",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/namibia-vs-united-arab-emirates-10th-match-first-round-group-a-1298144\/full-scorecard"
+  },
+  {
+    "Team 1": "Ireland",
+    "Team 2": "West Indies",
+    "Winner": "Ireland",
+    "Margin": "9 wickets",
+    "Ground": "Hobart",
+    "Match Date": "Oct 21, 2022",
+    "Scorecard": "T20I # 1837",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/ireland-vs-west-indies-11th-match-first-round-group-b-1298145\/full-scorecard"
+  },
+  {
+    "Team 1": "Scotland",
+    "Team 2": "Zimbabwe",
+    "Winner": "Zimbabwe",
+    "Margin": "5 wickets",
+    "Ground": "Hobart",
+    "Match Date": "Oct 21, 2022",
+    "Scorecard": "T20I # 1838",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/scotland-vs-zimbabwe-12th-match-first-round-group-b-1298146\/full-scorecard"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "89 runs",
+    "Ground": "Sydney",
+    "Match Date": "Oct 22, 2022",
+    "Scorecard": "T20I # 1839",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/australia-vs-new-zealand-13th-match-group-1-1298147\/full-scorecard"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "England",
+    "Winner": "England",
+    "Margin": "5 wickets",
+    "Ground": "Perth",
+    "Match Date": "Oct 22, 2022",
+    "Scorecard": "T20I # 1840",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/afghanistan-vs-england-14th-match-group-1-1298148\/full-scorecard"
+  },
+  {
+    "Team 1": "Ireland",
+    "Team 2": "Sri Lanka",
+    "Winner": "Sri Lanka",
+    "Margin": "9 wickets",
+    "Ground": "Hobart",
+    "Match Date": "Oct 23, 2022",
+    "Scorecard": "T20I # 1841",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/ireland-vs-sri-lanka-15th-match-group-1-1298149\/full-scorecard"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Pakistan",
+    "Winner": "India",
+    "Margin": "4 wickets",
+    "Ground": "Melbourne",
+    "Match Date": "Oct 23, 2022",
+    "Scorecard": "T20I # 1842",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/india-vs-pakistan-16th-match-group-2-1298150\/full-scorecard"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Netherlands",
+    "Winner": "Bangladesh",
+    "Margin": "9 runs",
+    "Ground": "Hobart",
+    "Match Date": "Oct 24, 2022",
+    "Scorecard": "T20I # 1843",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/bangladesh-vs-netherlands-17th-match-group-2-1298151\/full-scorecard"
+  },
+  {
+    "Team 1": "South Africa",
+    "Team 2": "Zimbabwe",
+    "Winner": "no result",
+    "Margin": "-",
+    "Ground": "Hobart",
+    "Match Date": "Oct 24, 2022",
+    "Scorecard": "T20I # 1844",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/south-africa-vs-zimbabwe-18th-match-group-2-1298152\/full-scorecard"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Sri Lanka",
+    "Winner": "Australia",
+    "Margin": "7 wickets",
+    "Ground": "Perth",
+    "Match Date": "Oct 25, 2022",
+    "Scorecard": "T20I # 1845",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/australia-vs-sri-lanka-19th-match-group-1-1298153\/full-scorecard"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Ireland",
+    "Winner": "Ireland",
+    "Margin": "5 runs",
+    "Ground": "Melbourne",
+    "Match Date": "Oct 26, 2022",
+    "Scorecard": "T20I # 1846",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/england-vs-ireland-20th-match-group-1-1298154\/full-scorecard"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "104 runs",
+    "Ground": "Sydney",
+    "Match Date": "Oct 27, 2022",
+    "Scorecard": "T20I # 1847",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/bangladesh-vs-south-africa-22nd-match-group-2-1298156\/full-scorecard"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Netherlands",
+    "Winner": "India",
+    "Margin": "56 runs",
+    "Ground": "Sydney",
+    "Match Date": "Oct 27, 2022",
+    "Scorecard": "T20I # 1848",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/india-vs-netherlands-23rd-match-group-2-1298157\/full-scorecard"
+  },
+  {
+    "Team 1": "Pakistan",
+    "Team 2": "Zimbabwe",
+    "Winner": "Zimbabwe",
+    "Margin": "1 run",
+    "Ground": "Perth",
+    "Match Date": "Oct 27, 2022",
+    "Scorecard": "T20I # 1849",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/pakistan-vs-zimbabwe-24th-match-group-2-1298158\/full-scorecard"
+  },
+  {
+    "Team 1": "New Zealand",
+    "Team 2": "Sri Lanka",
+    "Winner": "New Zealand",
+    "Margin": "65 runs",
+    "Ground": "Sydney",
+    "Match Date": "Oct 29, 2022",
+    "Scorecard": "T20I # 1850",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/new-zealand-vs-sri-lanka-27th-match-group-1-1298161\/full-scorecard"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Zimbabwe",
+    "Winner": "Bangladesh",
+    "Margin": "3 runs",
+    "Ground": "Brisbane",
+    "Match Date": "Oct 30, 2022",
+    "Scorecard": "T20I # 1851",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/bangladesh-vs-zimbabwe-28th-match-group-2-1298162\/full-scorecard"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "6 wickets",
+    "Ground": "Perth",
+    "Match Date": "Oct 30, 2022",
+    "Scorecard": "T20I # 1852",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/netherlands-vs-pakistan-29th-match-group-2-1298163\/full-scorecard"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "South Africa",
+    "Winner": "South Africa",
+    "Margin": "5 wickets",
+    "Ground": "Perth",
+    "Match Date": "Oct 30, 2022",
+    "Scorecard": "T20I # 1853",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/india-vs-south-africa-30th-match-group-2-1298164\/full-scorecard"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Ireland",
+    "Winner": "Australia",
+    "Margin": "42 runs",
+    "Ground": "Brisbane",
+    "Match Date": "Oct 31, 2022",
+    "Scorecard": "T20I # 1855",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/australia-vs-ireland-31st-match-group-1-1298165\/full-scorecard"
+  },
+  {
+    "Team 1": "Afghanistan",
+    "Team 2": "Sri Lanka",
+    "Winner": "Sri Lanka",
+    "Margin": "6 wickets",
+    "Ground": "Brisbane",
+    "Match Date": "Nov 1, 2022",
+    "Scorecard": "T20I # 1856",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/afghanistan-vs-sri-lanka-32nd-match-group-1-1298166\/full-scorecard"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "New Zealand",
+    "Winner": "England",
+    "Margin": "20 runs",
+    "Ground": "Brisbane",
+    "Match Date": "Nov 1, 2022",
+    "Scorecard": "T20I # 1858",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/england-vs-new-zealand-33rd-match-group-1-1298167\/full-scorecard"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "Zimbabwe",
+    "Winner": "Netherlands",
+    "Margin": "5 wickets",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 2, 2022",
+    "Scorecard": "T20I # 1859",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/netherlands-vs-zimbabwe-34th-match-group-2-1298168\/full-scorecard"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "India",
+    "Winner": "India",
+    "Margin": "5 runs",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 2, 2022",
+    "Scorecard": "T20I # 1860",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/bangladesh-vs-india-35th-match-group-2-1298169\/full-scorecard"
+  },
+  {
+    "Team 1": "Pakistan",
+    "Team 2": "South Africa",
+    "Winner": "Pakistan",
+    "Margin": "33 runs",
+    "Ground": "Sydney",
+    "Match Date": "Nov 3, 2022",
+    "Scorecard": "T20I # 1861",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/pakistan-vs-south-africa-36th-match-group-2-1298170\/full-scorecard"
+  },
+  {
+    "Team 1": "Ireland",
+    "Team 2": "New Zealand",
+    "Winner": "New Zealand",
+    "Margin": "35 runs",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 4, 2022",
+    "Scorecard": "T20I # 1862",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/ireland-vs-new-zealand-37th-match-group-1-1298171\/full-scorecard"
+  },
+  {
+    "Team 1": "Australia",
+    "Team 2": "Afghanistan",
+    "Winner": "Australia",
+    "Margin": "4 runs",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 4, 2022",
+    "Scorecard": "T20I # 1864",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/australia-vs-afghanistan-38th-match-group-1-1298172\/full-scorecard"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Sri Lanka",
+    "Winner": "England",
+    "Margin": "4 wickets",
+    "Ground": "Sydney",
+    "Match Date": "Nov 5, 2022",
+    "Scorecard": "T20I # 1867",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/england-vs-sri-lanka-39th-match-group-1-1298173\/full-scorecard"
+  },
+  {
+    "Team 1": "Netherlands",
+    "Team 2": "South Africa",
+    "Winner": "Netherlands",
+    "Margin": "13 runs",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 6, 2022",
+    "Scorecard": "T20I # 1871",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/netherlands-vs-south-africa-40th-match-group-2-1298174\/full-scorecard"
+  },
+  {
+    "Team 1": "Bangladesh",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "5 wickets",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 6, 2022",
+    "Scorecard": "T20I # 1872",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/bangladesh-vs-pakistan-41st-match-group-2-1298175\/full-scorecard"
+  },
+  {
+    "Team 1": "India",
+    "Team 2": "Zimbabwe",
+    "Winner": "India",
+    "Margin": "71 runs",
+    "Ground": "Melbourne",
+    "Match Date": "Nov 6, 2022",
+    "Scorecard": "T20I # 1873",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/india-vs-zimbabwe-42nd-match-group-2-1298176\/full-scorecard"
+  },
+  {
+    "Team 1": "New Zealand",
+    "Team 2": "Pakistan",
+    "Winner": "Pakistan",
+    "Margin": "7 wickets",
+    "Ground": "Sydney",
+    "Match Date": "Nov 9, 2022",
+    "Scorecard": "T20I # 1877",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/new-zealand-vs-pakistan-1st-semi-final-1298177\/full-scorecard"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "India",
+    "Winner": "England",
+    "Margin": "10 wickets",
+    "Ground": "Adelaide",
+    "Match Date": "Nov 10, 2022",
+    "Scorecard": "T20I # 1878",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/england-vs-india-2nd-semi-final-1298178\/full-scorecard"
+  },
+  {
+    "Team 1": "England",
+    "Team 2": "Pakistan",
+    "Winner": "England",
+    "Margin": "5 wickets",
+    "Ground": "Melbourne",
+    "Match Date": "Nov 13, 2022",
+    "Scorecard": "T20I # 1879",
+    "Scorecard URL": "https:\/\/www.espncricinfo.com\/\/series\/icc-men-s-t20-world-cup-2022-23-1298134\/england-vs-pakistan-final-1298179\/full-scorecard"
+  }
+]
